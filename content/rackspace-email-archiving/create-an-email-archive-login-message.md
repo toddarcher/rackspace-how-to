@@ -1,18 +1,18 @@
 ---
 permalink: create-an-email-archive-login-message/
-audit_date:
+audit_date: '2019-08-21'
 title: Create an email archive login message
 type: article
 created_date: '2015-05-18'
-created_by: Beau Bailey
-last_modified_date: '2018-02-25'
+created_by: Corey Bell
+last_modified_date: '2019-08-21'
 last_modified_by: Chris Moyer
 product: Rackspace Email Archiving
 product_url: rackspace-email-archiving
 ---
 
 Account administrators can create a login message for users to see when they log in to their email archive
-at `https://domaincom.archivesrvr.com`. The message can include any kind of useful information including login instructions or terms of use. 
+at `https://domaincom.archivesrvr.com`. The message can include any kind of useful information including login instructions or terms of use.
 
 **Note:** Only account administrators can create a login message, and only one message is shown on the login screen at a
 time.
@@ -23,6 +23,8 @@ Complete the following steps to create a login message for Archive Manager users
     Manager](https://cp.rackspace.com/Login.aspx?ReturnUrl=%2f).
     For more information, see [Log in to the Archive
     Manager](/how-to/log-in-to-the-archive-manager).
+
+2.\ Click **Admin** in the upper-right corner. **to access the Settings menu with the Login Message**
 
 2\. Click **Settings**.
 
