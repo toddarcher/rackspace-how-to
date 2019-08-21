@@ -24,9 +24,7 @@ Complete the following steps to create a login message for Archive Manager users
     For more information, see [Log in to the Archive
     Manager](/how-to/log-in-to-the-archive-manager).
 
-2.\ Click **Admin** in the upper-right corner. **to access the Settings menu with the Login Message**
-
-2\. Click **Settings**.
+2.\ Click **Admin** in the upper-right corner.
 
 3\. Click **Login Messages**.
 
