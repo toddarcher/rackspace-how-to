@@ -5,7 +5,7 @@ title: Create an email archive login message
 type: article
 created_date: '2015-05-18'
 created_by: Corey Bell
-last_modified_date: '2019-08-21'
+last_modified_date: '2019-08-22'
 last_modified_by: Chris Moyer
 product: Rackspace Email Archiving
 product_url: rackspace-email-archiving
@@ -26,19 +26,21 @@ Complete the following steps to create a login message for Archive Manager users
 
 2.\ Click **Admin** in the upper-right corner.
 
-3\. Click **Login Messages**.
+3.\ Click **Settings**.
 
-4\. On the right side of the window, click **New Message**.
+4\. Click **Login Messages**.
 
-5\. Enter the body of the message in the blank box next
+5\. On the right side of the window, click **New Message**.
+
+6\. Enter the body of the message in the blank box next
     to **Message**.
 
-6\. Click the calendar icon next to **Starts on** and select a start
+7\. Click the calendar icon next to **Starts on** and select a start
     date.
 
 **Note:** By default, dates are formatted in military time. You can modify the date format.
 
-7\. Click the calendar icon next to **Expires On** and select an end
+8\. Click the calendar icon next to **Expires On** and select an end
     date.
 
-8\. Click **Create**.
+9\. Click **Create**.
