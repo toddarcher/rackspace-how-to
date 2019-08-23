@@ -5,7 +5,7 @@ title: Create an email archive login message
 type: article
 created_date: '2015-05-18'
 created_by: Corey Bell
-last_modified_date: '2019-08-22'
+last_modified_date: '2019-08-23'
 last_modified_by: Chris Moyer
 product: Rackspace Email Archiving
 product_url: rackspace-email-archiving
@@ -24,9 +24,9 @@ Complete the following steps to create a login message for Archive Manager users
     For more information, see [Log in to the Archive
     Manager](/how-to/log-in-to-the-archive-manager).
 
-2.\ Click **Admin** in the upper-right corner.
+2\. Click **Admin** in the upper-right corner.
 
-3.\ Click **Settings**.
+3\. Click **Settings**.
 
 4\. Click **Login Messages**.
 
