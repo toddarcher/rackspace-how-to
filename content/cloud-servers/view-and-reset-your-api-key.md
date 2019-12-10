@@ -21,6 +21,8 @@ API key is a unique alphanumeric identifier associated with your account that
 is used for universal authentication commands for all of your services.
 
 ### To view or reset your API key
+**Dedicated and My.rackspace.com Users** 
+If you are accessing the Public Cloud Account through the Dedicated Portal wou **WILL NOT** have access to the OpenStack API as these federated users. You need to have a separate **CLOUD ONLY** username and profile created by the **Cloud Account Primary** or an authorized **Cloud Account Administrative** user. 
 
 **Note:** When you reset your API key, any third-party applications are
 disconnected until you set the new API key in your application. If you are using
