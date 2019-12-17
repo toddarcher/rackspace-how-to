@@ -51,7 +51,9 @@ After you have completed your renewal, you're ready to install the new certifica
 
 ### MyRackspace users
 
-If you are a Managed or Dedicated customer and use the [MyRackspace Portal](https://login.rackspace.com/), you can purchase an SSL certificate from Rackspace. Contact your Support team or submit a ticket to start the certificate purchase process.
+If you are a RackConnect or OpenStack Public Cloud only Customer with out at least one active least one active Linux® or Windows® dedicated server, at this time we do not offer the option to renew or order SSL Certificates. Refer to **[Rackspace SSL certificates]**(https://support.rackspace.com/how-to/rackspace-ssl-certificates/) for purchasing an SSL Certificate through Rackspace. 
+
+If you are a Dedicated or Managed Dedicated customer and use the [MyRackspace Portal](https://login.rackspace.com/), you can purchase an SSL certificate from Rackspace. Contact your Support team or submit a ticket to start the certificate purchase process.
 
 When it is time to renew your certificate, Rackspace will contact you before the end of the validity period.
 
